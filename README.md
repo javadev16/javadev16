@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ernesto Linares! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ernesto Linares! <img src="https://user-images.githubusercontent.com/65906940/180911769-8f303b38-5ae0-4bf8-9070-f2f953c491ec.jpg" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Rng7sDG4dkmyWev2qx/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
