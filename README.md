@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ernesto Linares! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://giphy.com/gifs/treadmill-lumps-daily-exercise-3GSoFVODOkiPBFArlu](https://giphy.com/clips/tlceurope-tlc-90-day-fiance-europe-Dj4YyyLffllgNjp61i)](https://giphy.com/stickers/trending/90s)" width="230">
+<img align='right' src="[[https://giphy.com/gifs/treadmill-lumps-daily-exercise-3GSoFVODOkiPBFArlu](https://giphy.com/clips/tlceurope-tlc-90-day-fiance-europe-Dj4YyyLffllgNjp61i)](https://giphy.com/stickers/trending/90s)](https://media.giphy.com/media/fybuxE9MJ7mXqeDu5o/giphy.gif)" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
